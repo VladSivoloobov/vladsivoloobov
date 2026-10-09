@@ -22,7 +22,7 @@ jobs:
       - name: generate-snake-game-from-github-contribution-grid
         uses: Platane/snk@v3.5.0
         with:
-          github_user_name: ТВОЙ_НИК_НА_GITHUB
+          github_user_name: vladsivoloobov
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
