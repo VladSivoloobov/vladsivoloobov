@@ -1,4 +1,8 @@
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VladSivoloobov/vladsivoloobov/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VladSivoloobov/vladsivoloobov/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/VladSivoloobov/vladsivoloobov/output/github-snake.svg" />
+</picture>
 
 # Hello, I'm Vladislav Sivolobov
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
