@@ -50,5 +50,4 @@ I 🥰 any development!
 [![Codewars Badge](https://www.codewars.com/users/VladSivoloobov/badges/large)](https://www.codewars.com/users/VladSivoloobov)
 
 ## Currently working on
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vladsivoloobov&repo=historia)](https://github.com/madushadhanushka/differ)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vladsivoloobov&repo=web-builder)](https://github.com/madushadhanushka/simple-sqlite)
