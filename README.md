@@ -48,6 +48,3 @@ I 🥰 any development!
 🙏 React/React Native fanatics | 🍵 Coffee Lover | 🖥️ Nest.js Enjoyer
 
 [![Codewars Badge](https://www.codewars.com/users/VladSivoloobov/badges/large)](https://www.codewars.com/users/VladSivoloobov)
-
-## Currently working on
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vladsivoloobov&repo=web-builder)](https://github.com/madushadhanushka/simple-sqlite)
